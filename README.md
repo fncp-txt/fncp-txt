@@ -1,8 +1,8 @@
-# ¡Hola! Soy Franco Castellá Palet 👋
+# ¡Buenas! Soy Franco Castellá Palet 👋
 
 ### Desarrollador Web Junior - Estudiante de CFGS Desarrollo de Aplicaciones Web (DAW)
 
-Soy desarrollador web en continua formación, enfocado en construir aplicaciones web funcionales, escalables y con código limpio. Me apasiona sobre todo comprender y mejorar la experiencia de usuario, aplicando metodologías ágiles y control de versiones en cada proyecto.
+Soy desarrollador web en continua formación, enfocado en equilibrar el diseño y el código, diseñando interfaces dinámicas, escalables y de alto rendimiento dando la máxima prioridad a la experiencia de usuario, la accesibilidad y a las buenas prácticas en el desarrollo web, aplicando metodologías ágiles y control de versiones en cada proyecto.
 
 ---
 
